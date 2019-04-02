@@ -1,0 +1,137 @@
+body {
+    font-family: 'PT Sans', sans-serif;
+}
+
+ul, li {
+    display: block;
+    padding: 0;
+    margin: 0;
+}
+
+/* шапка */
+
+.header{
+    background: #fcdb00;
+    min-height: 200px;
+    padding-top: 20px;
+}
+
+.menu__item{
+
+    padding: 0 30px;
+}
+
+.menu{
+    list-style: none;
+    font-weight: 700;
+    font-size: 22px;
+   
+    color: black;
+    text-decoration: none;
+ 
+    text-decoration: none;
+ 
+ 
+  
+    line-height: 43px;
+
+    
+   
+}
+
+a{
+    color: black;
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: none;
+    color: purple;
+}
+
+/* .brdrd{
+    border: 1px solid red;
+} */
+
+.icons{
+    font-size: 3rem;
+    margin-top: 2rem;
+}
+.icons__item{
+    padding-right: 3rem;
+}
+
+.mt-c1{
+    margin-top: 70px;
+}
+.pb-c1{
+    padding-bottom: 100px;
+}
+h1{
+    font-size: 32px;
+}
+.f_bold{
+    font-weight: 700;
+}
+.text1{
+    font-size: 20px;
+}
+
+
+/* тело */
+.main__txt{
+    margin-top: 126px;
+}
+
+.main__icons{
+    font-size: 50px;
+    padding-top: 0;
+}
+h2{
+    font-size: 22px;
+}
+.main__icons__i{
+    margin-top: -7px;
+}
+.text_future{
+    margin: 50px 0;
+}
+.main{
+    padding-bottom: 100px;
+}
+
+/* последняя секция */
+
+.subcribe{
+    min-height: 200px;
+    background: #000;
+}
+
+.subcribe__title{
+    margin-top: 100px;
+    color: #fcdb00;
+}
+.subcribe__text{
+    color: #898989;
+}
+
+.subcribe__input__button{
+    min-width: 100px;
+    line-height: 30px;
+
+}
+.subcribe__input__email{
+    line-height: 30px;
+    margin-bottom: 10px;
+}
+.footer__text{
+    margin-top: 60px;
+    color: #898989;
+    max-width: 180px;
+}
+footer{
+    background: #000;
+}
+
+.mt-c0{
+    margin-top: 30px;
+}
